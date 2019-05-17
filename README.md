@@ -4,7 +4,7 @@ In this exercise you will build a program to complete a [word search](https://en
 
 Given a text file consisting of a list of words, and a series of rows of single-character lists representing the word search grid, this program should search for the words in the grid and return a set of x,y coordinates for each word found.
 
-The point of this kata to to provide a larger than trivial exercise that can be used to practice TDD. A significant portion of the effort will be in determining what tests should be written and, more importantly, written next.
+The point of this kata is to provide a larger than trivial exercise that can be used to practice TDD. A significant portion of the effort will be in determining what tests should be written and, more importantly, written next.
 
 ## Input ##
 
@@ -71,7 +71,7 @@ UHURA: (4,0),(3,1),(2,2),(1,3),(0,4)
 
 ## FAQ ##
 
-*It looks hard to generate test data.  How can do do this easily?*<br />
+*It looks hard to generate test data. How can you do this easily?*<br />
 * If you need to generate test data there are many sites which will generate puzzles for you, such as [this one](http://puzzlemaker.discoveryeducation.com/WordSearchSetupForm.asp?campaign=flyout_teachers_puzzle_wordcross).
 
 *How large can the grid be?*<br />
